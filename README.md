@@ -1,7 +1,11 @@
 # hubs-research-2021
 Supplimental code and dataset for the [ACM CHI
 2021](https://doi.org/10.1145/3411764.3445729) paper on "Proxemics and
-Social Interactions in an Instrumented Virtual Reality Workshop".
+Social Interactions in an Instrumented Virtual Reality Workshop".  In
+this research paper we [instrumented Mozilla Hubs
+Cloud](https://github.com/ayman/hubs/tree/hubs-cloud) to record where
+participants where during the event.  From there, we measured proxemic
+and plotted the activity along with some semi-structured interviews.
 
 ## Repository Structure
 1. For the Mozilla Hubs logger, the full instrumented Hubs Cloud
@@ -14,6 +18,9 @@ Social Interactions in an Instrumented Virtual Reality Workshop".
    distance, and visualization (of the figures in the paper) are in
    the `3.Notebooks` directory.  To run it, a simple anaconda install
    running `jupyter notebook` will suffice.
+   
+## Preprint
+ArXiv?
 
 ## Citing this Notebook, Code, Data, or Repo
 Cite the paper, the bespoke logging client, the dataset, or this
@@ -80,7 +87,4 @@ Library](https://doi.org/10.1145/3411764.3445729).
  * All the *code* in this repo is released under [Mozilla Public
 License 2.0](https://github.com/ayman/hubs-research-2021/blob/main/LICENSE).
  * The *data* is released under [CC-BY-NC-SA
-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-
-## Preprint
-ArXiv?
+4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
