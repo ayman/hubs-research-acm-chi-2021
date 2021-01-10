@@ -23,7 +23,7 @@ and plotted the activity along with some semi-structured interviews.
    running `jupyter notebook` will suffice.
    
 ## Preprint
-ArXiv?
+_ArXiv link coming soon._
 
 ## Citing this Notebook, Code, Data, or Repo
 Cite the paper, the bespoke logging client, the dataset, or this
