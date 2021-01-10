@@ -10,9 +10,10 @@ on Medium.
 The code here is a snapshot of the full [bespoke Mozilla Hubs
 Client](https://github.com/ayman/hubs/blob/hubs-cloud/src/systems/research/README.md)
 for data collection. Each client sends data packages to another server
-which simply logs a HTTP POST request to a file, see line 117 of the
-`research-logger.js`.  The server logger, while not complex, is not
-included here and can be written in any number of languages.
+which simply logs a HTTP POST request to a file, see [line
+118](https://github.com/ayman/hubs-research-acm-chi-2021/blob/eb0001fb2f7a8a7fd85506150b86ab0a7a074469/1.HubsLogger/research-logger.js#L118)
+of the `research-logger.js`.  The server logger, while not complex, is
+not included here and can be written in any number of languages.
 
 ## research-logger
 
