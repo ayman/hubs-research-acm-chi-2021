@@ -1,8 +1,8 @@
 # hubs-research-acm-chi-2021
-Supplimental code and dataset for the [ACM CHI
-2021](https://doi.org/10.1145/3411764.3445729) paper on "Proxemics and
-Social Interactions in an Instrumented Virtual Reality Workshop".  In
-this research paper we [instrumented Mozilla Hubs
+Supplimental code and dataset for the [ACM CHI 2021 paper on
+"Proxemics and Social Interactions in an Instrumented Virtual Reality
+Workshop"](https://doi.org/10.1145/3411764.3445729).  In this research
+paper we [instrumented Mozilla Hubs
 Cloud](https://github.com/ayman/hubs/tree/hubs-cloud) to record where
 participants where during the event.  From there, we measured proxemic
 and plotted the activity along with some semi-structured interviews.
