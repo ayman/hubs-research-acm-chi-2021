@@ -73,8 +73,7 @@ or
                   Factors in Computing Systems},
   numpages =     19,
   keywords =     {Collaboration, Virtual Reality, Augmented Reality,
- 
- Dataset, VR, AR},
+                  Dataset, VR, AR},
   location =     {Yokohama, Japan},
   series =       {CHI '21}
 }
