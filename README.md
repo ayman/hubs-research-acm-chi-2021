@@ -8,11 +8,12 @@ participants where during the event.  From there, we measured proxemic
 and plotted the activity along with some semi-structured interviews.
 
 ## Repository Structure
-1. For the Mozilla Hubs logger, the full instrumented Hubs Cloud
-   client is in a live fork.  For the purpose of documenation, a
-   snapshot (retrieved January 2021) of the A-Frame logger for Hubs is
-   saved under the `1.HubsLogger` directory. There is a [longer
-   writeup on the
+1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
+   client](https://github.com/ayman/hubs/blob/hubs-cloud/src/systems/research/README.md)
+   is in a live fork.  For the purpose of documenation, a snapshot
+   (retrieved January 2021) of the A-Frame logger for Hubs is saved
+   under the `1.HubsLogger` directory. There is a [longer writeup on
+   the
    logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
    on Medium.
 2. The scrubbed data collected from the workshop is in the `poses.csv`
@@ -90,3 +91,7 @@ Library](https://doi.org/10.1145/3411764.3445729).
 License 2.0](https://github.com/ayman/hubs-research-2021/blob/main/LICENSE).
  * The *data* is released under [CC-BY-NC-SA
 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Questions?
+You can find our emails on the [ACM DL DOI
+page](https://doi.org/10.1145/3411764.3445729) or drop an issue here.
