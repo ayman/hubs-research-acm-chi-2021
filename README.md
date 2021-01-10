@@ -1,4 +1,4 @@
-# hubs-research-2021
+# hubs-research-acm-chi-2021
 Supplimental code and dataset for the [ACM CHI
 2021](https://doi.org/10.1145/3411764.3445729) paper on "Proxemics and
 Social Interactions in an Instrumented Virtual Reality Workshop".  In
@@ -11,8 +11,9 @@ and plotted the activity along with some semi-structured interviews.
 1. For the Mozilla Hubs logger, the full instrumented Hubs Cloud
    client is in a live fork.  For the purpose of documenation, a
    snapshot (retrieved January 2021) of the A-Frame logger for Hubs is
-   saved under the `1.HubsLogger` directory. There is a [longer writeup 
-   on the logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
+   saved under the `1.HubsLogger` directory. There is a [longer
+   writeup on the
+   logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
    on Medium.
 2. The scrubbed data collected from the workshop is in the `poses.csv`
    file in the `2.Data` directory.
