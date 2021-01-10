@@ -15,7 +15,7 @@ and plotted the activity along with some semi-structured interviews.
    under the `1.HubsLogger` directory. There is a [longer writeup on
    the
    logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
-   on Medium.
+   on Medium (or [PDF](1.HubsLogger/VRResearchMozillaHubs.pdf)).
 2. The scrubbed data collected from the workshop is in the `poses.csv`
    file in the `2.Data` directory.
 3. Python/Jupyter notebooks for undersampling, calculating euclidian
@@ -23,9 +23,6 @@ and plotted the activity along with some semi-structured interviews.
    the `3.Notebooks` directory.  To run it, a simple anaconda install
    running `jupyter notebook` will suffice.
    
-## Preprint
-_ArXiv link coming soon._
-
 ## Citing this Notebook, Code, Data, or Repo
 Cite the paper, the bespoke logging client, the dataset, or this
 notebook as:

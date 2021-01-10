@@ -2,9 +2,10 @@
 
 In this directory we're going to add some experimental features for
 research. To add a plugin you really just drop it here and include it
-in the root `hubs.js` document as a starting point. There is a [longer writeup 
-on the logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
-on Medium.
+in the root `hubs.js` document as a starting point. There is a [longer
+writeup on the
+logger](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
+on Medium (or [PDF](VRResearchMozillaHubs.pdf)).
 
 ## about this snapshot 
 The code here is a snapshot of the full [bespoke Mozilla Hubs
