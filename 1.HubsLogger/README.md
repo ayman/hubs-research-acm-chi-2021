@@ -92,3 +92,7 @@ For each data tick we will log an array line of a csv:
 I think this is the proper orientation:
 `document.getElementById('avatar-pov-node').object3D.getWorldQuaternion();`
 which is the `rigQuant` above.
+
+## Licenses
+This *code* is released under [Mozilla Public License
+2.0](https://github.com/ayman/hubs-research-2021/blob/main/LICENSE).

@@ -66,7 +66,8 @@ or
                   Factors in Computing Systems},
   numpages =     19,
   keywords =     {Collaboration, Virtual Reality, Augmented Reality,
-                  Dataset, VR, AR},
+ 
+ Dataset, VR, AR},
   location =     {Yokohama, Japan},
   series =       {CHI '21}
 }
@@ -77,7 +78,7 @@ Library](https://doi.org/10.1145/3411764.3445729).
 
 ## Licenses
  * All the *code* in this repo is released under [Mozilla Public
-License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+License 2.0](https://github.com/ayman/hubs-research-2021/blob/main/LICENSE).
  * The *data* is released under [CC-BY-NC-SA
 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 
