@@ -19,12 +19,12 @@ Social Interactions in an Instrumented Virtual Reality Workshop".
 Cite the paper, the bespoke logging client, the dataset, or this
 notebook as:
 
-> Julie Williamson, Jie Li, Vinoba Vinayagamoorthy, David A. Shamma,
-> Pablo Cesar. 2021.  Understanding User Proxemics and Social Formations
-> in an Instrumented Virtual Reality Workshop. In _Proceedings of the_
-> _2021 CHI Conference on Human Factors in Computing Systems_ (CHI
-> '21). Association for Computing Machinery, New York, NY, USA, DOI:
-> https://doi.org/10.1145/3411764.3445729 
+Julie Williamson, Jie Li, Vinoba Vinayagamoorthy, David A. Shamma,
+Pablo Cesar. 2021.  Understanding User Proxemics and Social Formations
+in an Instrumented Virtual Reality Workshop. In _Proceedings of the_
+_2021 CHI Conference on Human Factors in Computing Systems_ (CHI
+'21). Association for Computing Machinery, New York, NY, USA, DOI:
+https://doi.org/10.1145/3411764.3445729
 
 or 
 
