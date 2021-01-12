@@ -7,6 +7,8 @@ Cloud](https://github.com/ayman/hubs/tree/hubs-cloud) to record where
 participants where during the event.  From there, we measured proxemic
 and plotted the activity along with some semi-structured interviews.
 
+![Animation of avatars moving in main space](3.Notebooks/assets/main_animation_small.gif)
+
 ## Repository Structure
 1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
    client](https://github.com/ayman/hubs/blob/hubs-cloud/src/systems/research/README.md)
