@@ -75,7 +75,7 @@ or
                   and deliver more effective virtual workshops.},
   booktitle =    {Proceedings of the 2021 CHI Conference on Human
                   Factors in Computing Systems},
-  numpages =     19,
+  numpages =     13,
   keywords =     {Collaboration, Virtual Reality, Augmented Reality,
                   Dataset, VR, AR},
   location =     {Yokohama, Japan},
