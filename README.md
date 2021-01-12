@@ -7,7 +7,7 @@ Cloud](https://github.com/ayman/hubs/tree/hubs-cloud) to record where
 participants where during the event.  From there, we measured proxemic
 and plotted the activity along with some semi-structured interviews.
 
-![Animation of avatars moving in main space](3.Notebooks/assets/main_animation_small.gif)
+[![Animation of avatars moving in main space](3.Notebooks/assets/main_animation_small.gif)](3.Notebooks/assets/main_animation.mp4)
 
 ## Repository Structure
 1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
@@ -23,7 +23,8 @@ and plotted the activity along with some semi-structured interviews.
 3. Python/Jupyter notebooks for undersampling, calculating euclidian
    distance, and visualization (of the figures in the paper) are in
    the `3.Notebooks` directory.  To run it, a simple anaconda install
-   running `jupyter notebook` will suffice.
+   running `jupyter notebook` will suffice with a few dependencies
+   (see the `import` statements in each of the notebooks).
    
 ## Citing this Notebook, Code, Data, or Repo
 Cite the paper, the bespoke logging client, the dataset, or this
