@@ -1,4 +1,6 @@
 # Collected Data
+
+## Poses
 The dataset provided with this example has already been assigned
 usable names for columns and removed all unused columns. Columns, like
 `display_name`, have been removed for anonymisation. The raw data from
@@ -21,6 +23,14 @@ columns than seen here.  For reference, here is our format.
 | `orientation_x` | A quaternion, a value from -1 to 1                                             |
 | `orientation_y` | A quaternion, a value from -1 to 1                                             |
 | `orientation_z` | A quaternion, a value set to 0                                                 |
+
+## User Events Summary
+
+| Column       | Description                 |
+| :----------- | :-------------------------- |
+| `uuid`       | Stable unique ID for users  |
+| `os`         | User's Operating System     |
+| `vr_enabled` | HMD status                  |
 
 ## License
 The *data* is released under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
