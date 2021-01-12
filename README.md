@@ -20,7 +20,7 @@ and plotted the activity along with some semi-structured interviews.
    on Medium (or [PDF](1.HubsLogger/VRResearchMozillaHubs.pdf)).
 2. The scrubbed data collected from the workshop is in the `poses.csv`
    file in the `2.Data` directory.
-3. Python/Jupyter notebooks for undersampling, calculating euclidian
+3. Python/Jupyter notebooks for resampling, calculating euclidian
    distance, and visualization (of the figures in the paper) are in
    the `3.Notebooks` directory.  To run it, a simple anaconda install
    running `jupyter notebook` will suffice with a few dependencies
