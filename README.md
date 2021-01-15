@@ -11,9 +11,8 @@ and plotted the activity along with some semi-structured interviews.
 
 ## Preprint
 
-The [preprint PDF
-paper](https://github.com/ayman/hubs-research-acm-chi-2021 "PDF on
-arXiv") is available on arXiv.
+The [preprint PDF paper](https://arxiv.org/abs/2101.05300 
+"PDF on arXiv") is available on arXiv.
 
 ## Repository Structure
 1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
