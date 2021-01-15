@@ -13,9 +13,11 @@ and plotted the activity along with some semi-structured interviews.
 
 [![Thumbnail of the first page of the
 article](3.Notebooks/assets/paperthumb.png)](https://arxiv.org/abs/2101.05300
-"PDF on arXiv") The [preprint PDF
+"PDF on arXiv") 
+
+The [preprint PDF
 paper](https://arxiv.org/abs/2101.05300 "PDF on arXiv") is available
-on arXiv.
+on arXiv. 
 
 ## Repository Structure
 1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
