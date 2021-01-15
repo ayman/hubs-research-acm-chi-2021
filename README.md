@@ -9,6 +9,12 @@ and plotted the activity along with some semi-structured interviews.
 
 [![Animation of avatars moving in main space](3.Notebooks/assets/main_animation_small.gif)](3.Notebooks/assets/main_animation.mp4)
 
+## Preprint
+
+The [preprint PDF
+paper](https://github.com/ayman/hubs-research-acm-chi-2021 "PDF on
+arXiv") is available on arXiv.
+
 ## Repository Structure
 1. For the Mozilla Hubs logger, the [full instrumented Hubs Cloud
    client](https://github.com/ayman/hubs/blob/hubs-cloud/src/systems/research/README.md)
